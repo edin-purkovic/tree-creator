@@ -1,4 +1,4 @@
-# Tree Generator
+# Tree Creator
 
 Little procedural tree generator I put together in TypeScript, including a SVG node and curve editors I plan to extract as separate libraries.
 
