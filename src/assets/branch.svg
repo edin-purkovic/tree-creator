@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32.0px"
+   height="32.0px"
+   viewBox="0 0 32.0 32.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="branch.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   fill="#fff"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1466"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="26.025828"
+     inkscape:cx="4.5531693"
+     inkscape:cy="16.368355"
+     inkscape:window-width="1471"
+     inkscape:window-height="1226"
+     inkscape:window-x="333"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1472" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1461" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style=""
+       d="M 0,26 12,17 13,4 16,3 V 14 L 29,3 30,6 14,22 23,24 22,27 11,26 6,32 H 0 v -6"
+       id="path1626"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
